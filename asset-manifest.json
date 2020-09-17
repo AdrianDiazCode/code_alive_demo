@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/code_alive_demo/static/css/main.8b841aed.chunk.css",
-    "main.js": "/code_alive_demo/static/js/main.399dc093.chunk.js",
-    "main.js.map": "/code_alive_demo/static/js/main.399dc093.chunk.js.map",
+    "main.js": "/code_alive_demo/static/js/main.3e029970.chunk.js",
+    "main.js.map": "/code_alive_demo/static/js/main.3e029970.chunk.js.map",
     "runtime-main.js": "/code_alive_demo/static/js/runtime-main.8ce2e8a2.js",
     "runtime-main.js.map": "/code_alive_demo/static/js/runtime-main.8ce2e8a2.js.map",
     "static/css/2.4e451e98.chunk.css": "/code_alive_demo/static/css/2.4e451e98.chunk.css",
-    "static/js/2.80b1b197.chunk.js": "/code_alive_demo/static/js/2.80b1b197.chunk.js",
-    "static/js/2.80b1b197.chunk.js.map": "/code_alive_demo/static/js/2.80b1b197.chunk.js.map",
+    "static/js/2.a970a1a7.chunk.js": "/code_alive_demo/static/js/2.a970a1a7.chunk.js",
+    "static/js/2.a970a1a7.chunk.js.map": "/code_alive_demo/static/js/2.a970a1a7.chunk.js.map",
     "index.html": "/code_alive_demo/index.html",
-    "precache-manifest.547d61136a4a3077c99b527f5847ae94.js": "/code_alive_demo/precache-manifest.547d61136a4a3077c99b527f5847ae94.js",
+    "precache-manifest.b6e0ea6032c1824544f6321e57dbf01a.js": "/code_alive_demo/precache-manifest.b6e0ea6032c1824544f6321e57dbf01a.js",
     "service-worker.js": "/code_alive_demo/service-worker.js",
     "static/css/2.4e451e98.chunk.css.map": "/code_alive_demo/static/css/2.4e451e98.chunk.css.map",
     "static/css/main.8b841aed.chunk.css.map": "/code_alive_demo/static/css/main.8b841aed.chunk.css.map",
-    "static/js/2.80b1b197.chunk.js.LICENSE.txt": "/code_alive_demo/static/js/2.80b1b197.chunk.js.LICENSE.txt",
+    "static/js/2.a970a1a7.chunk.js.LICENSE.txt": "/code_alive_demo/static/js/2.a970a1a7.chunk.js.LICENSE.txt",
     "static/media/backward.79fcb18e.svg": "/code_alive_demo/static/media/backward.79fcb18e.svg",
     "static/media/edit.b935f77b.svg": "/code_alive_demo/static/media/edit.b935f77b.svg",
     "static/media/fast.6ac8ce0a.svg": "/code_alive_demo/static/media/fast.6ac8ce0a.svg",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.8ce2e8a2.js",
     "static/css/2.4e451e98.chunk.css",
-    "static/js/2.80b1b197.chunk.js",
+    "static/js/2.a970a1a7.chunk.js",
     "static/css/main.8b841aed.chunk.css",
-    "static/js/main.399dc093.chunk.js"
+    "static/js/main.3e029970.chunk.js"
   ]
 }
